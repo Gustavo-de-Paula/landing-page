@@ -17,21 +17,21 @@ body {
     background-color: #1f2937;
 }
 
-.logo {
+.headerlogo {
     display: flex;
     font-size: 24px;
     color: #f9faf8;
     margin-left: 100px;
 }
 
-ul {
+.headerlinks {
     display: flex;
     list-style: none;
     margin-right: 100px;
     gap: 20px;
 }
 
-a {
+.headerlinks a {
     font-size: 18px;
     color: #e5e7eb;
     text-decoration: none;
